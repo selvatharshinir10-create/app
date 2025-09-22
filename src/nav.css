@@ -1,0 +1,32 @@
+
+body {
+    background-image: url('C:\Users\MY PC\Desktop\reactrpannuselva\myapp\src\flo.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#a {
+    display: flex;
+    background-image: url('C:\Users\MY PC\Desktop\reactrpannuselva\myapp\public\kuil.jpg'); 
+    background-size: cover;
+    background-position: center;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+
+#a ul {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+
+#a ul a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

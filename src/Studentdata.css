@@ -1,0 +1,45 @@
+.student-container {
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  .logout-button {
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  .student-form input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+  }
+  
+  .student-form button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .student-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .student-table th, .student-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .student-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
